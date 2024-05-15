@@ -1,6 +1,8 @@
 # Networked-2D-Inventory
 A fully networked &amp; optimized 2 dimensional inventory system. 
 
+* This is not finished. 
+
 * Unity 2022.3.261f
 * FishNet 4.1.6
 * SteelBox Extensions
